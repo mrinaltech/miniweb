@@ -1,0 +1,72 @@
+.row-header {
+    margin:0px auto;
+    padding: 20px 0px 20px 0px;
+    background-color:  rgb(59, 238, 223);
+}
+
+.row-content {
+    margin:0px auto;
+    padding:50px 0px 50px 0px;
+    border-bottom:1px ridge;
+    min-height: 400px;
+}
+
+.footer {
+    background-color: rgba(169, 238, 232, 0.671);
+    margin: 0px auto;
+    padding: 20px 0px 20px 0px;
+
+}
+
+.jumbotron {
+    padding:70px 30px 70px 30px;
+    margin:0px auto;
+    background:  rgb(59, 238, 223);
+    color: navy;
+}
+
+.address {
+    font-size: larger;
+    margin: 0px;
+    color:black;
+
+}
+
+body{
+    padding:50px 0px 0px 0px;
+    z-index:0;
+}
+
+.navbar-dark {
+     background-color: rgb(3, 48, 85);
+}
+
+.tab-content {
+    border-top:55px solid #330300;    
+    border-left: 55px solid #330300;
+    border-right: 55px solid #330300;
+    border-bottom: 55px solid #330300;
+    padding: 10px;
+}
+
+.carousel {
+    background:rgb(3, 75, 33);
+}
+
+.carousel-item {
+  height: 300px;
+}
+
+.carousel-item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 300px;
+}
+
+#carouselButton {
+    right:0px;
+    position: absolute;
+    bottom: 0px;
+    z-index: 1;
+}
